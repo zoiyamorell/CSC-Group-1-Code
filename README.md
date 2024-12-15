@@ -5,4 +5,6 @@
 -DatapreprocessingHAM10k(Farah): Farah's HAM10k data preprocessing code.
 -ModelsTrainingHAM10k(Farah): Farah's HAM10k models.
 -HEp-2 jupyter Jeremy Ryan: Contains Jeremy and Ryan's SIFT, SVM, and CNN code for HEp-2
+-Siftfull: Drew's code for MNIST SIFT
+-finalizedMNIST: Drew's code for MNIST
 ```
