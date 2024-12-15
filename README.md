@@ -8,4 +8,5 @@
 -Siftfull: Drew's code for MNIST SIFT
 -finalizedMNIST: Drew's code for MNIST
 -DERM Project Code.zip: Dallas's code for DERMT2M
+-DERM-T2M DLMIII.zip: David's code for DERMT2M
 ```
