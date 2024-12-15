@@ -7,4 +7,5 @@
 -HEp-2 jupyter Jeremy Ryan: Contains Jeremy and Ryan's SIFT, SVM, and CNN code for HEp-2
 -Siftfull: Drew's code for MNIST SIFT
 -finalizedMNIST: Drew's code for MNIST
+-DERM Project Code.zip: Dallas's code for DERMT2M
 ```
